@@ -1,0 +1,9 @@
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\bin\Debug\ChatLibrary.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\bin\Debug\ChatLibrary.pdb
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\bin\Debug\Interfaces.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\bin\Debug\LogLibrary.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\bin\Debug\Interfaces.pdb
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\bin\Debug\LogLibrary.pdb
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\obj\Debug\ChatLibrary.csprojResolveAssemblyReference.cache
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\obj\Debug\ChatLibrary.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\ChatLibrary\obj\Debug\ChatLibrary.pdb

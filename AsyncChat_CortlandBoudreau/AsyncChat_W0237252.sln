@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncChat_W0237252", "AsyncChat_W0237252\AsyncChat_W0237252.csproj", "{2E46A639-5BCD-43AA-A145-BA3028222FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLibrary", "ChatLibrary\ChatLibrary.csproj", "{9CD112D2-9D70-4E65-85A0-E151D3658CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingLibrary", "LogLibrary\LoggingLibrary.csproj", "{8A507DDC-4269-4A7A-8CA0-5924938B4600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{9CD08D79-7E3F-45F5-BC45-A6A772E65408}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CortlandsLogger_Nlog", "CortlandsLogger_Nlog\CortlandsLogger_Nlog.csproj", "{DDE6E8F0-2D85-4C71-9E88-9E97879AF52C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dbas3200cb.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AsyncChat_W0237252\\AsyncChat_W0237252.csproj
+		SccProjectName1 = AsyncChat_W0237252
+		SccLocalPath1 = AsyncChat_W0237252
+		SccProjectUniqueName2 = ChatLibrary\\ChatLibrary.csproj
+		SccProjectName2 = ChatLibrary
+		SccLocalPath2 = ChatLibrary
+		SccProjectUniqueName3 = CortlandsLogger_Nlog\\CortlandsLogger_Nlog.csproj
+		SccProjectName3 = CortlandsLogger_Nlog
+		SccLocalPath3 = CortlandsLogger_Nlog
+		SccProjectUniqueName4 = Interfaces\\Interfaces.csproj
+		SccProjectName4 = Interfaces
+		SccLocalPath4 = Interfaces
+		SccProjectUniqueName5 = LogLibrary\\LoggingLibrary.csproj
+		SccProjectName5 = LogLibrary
+		SccLocalPath5 = LogLibrary
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E46A639-5BCD-43AA-A145-BA3028222FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E46A639-5BCD-43AA-A145-BA3028222FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E46A639-5BCD-43AA-A145-BA3028222FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E46A639-5BCD-43AA-A145-BA3028222FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD112D2-9D70-4E65-85A0-E151D3658CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD112D2-9D70-4E65-85A0-E151D3658CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD112D2-9D70-4E65-85A0-E151D3658CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD112D2-9D70-4E65-85A0-E151D3658CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A507DDC-4269-4A7A-8CA0-5924938B4600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A507DDC-4269-4A7A-8CA0-5924938B4600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A507DDC-4269-4A7A-8CA0-5924938B4600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A507DDC-4269-4A7A-8CA0-5924938B4600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD08D79-7E3F-45F5-BC45-A6A772E65408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD08D79-7E3F-45F5-BC45-A6A772E65408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD08D79-7E3F-45F5-BC45-A6A772E65408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD08D79-7E3F-45F5-BC45-A6A772E65408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE6E8F0-2D85-4C71-9E88-9E97879AF52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE6E8F0-2D85-4C71-9E88-9E97879AF52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE6E8F0-2D85-4C71-9E88-9E97879AF52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE6E8F0-2D85-4C71-9E88-9E97879AF52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

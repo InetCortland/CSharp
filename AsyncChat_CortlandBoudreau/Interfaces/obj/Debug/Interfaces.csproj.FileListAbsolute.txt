@@ -1,0 +1,4 @@
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\Interfaces\bin\Debug\Interfaces.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\Interfaces\bin\Debug\Interfaces.pdb
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\Interfaces\obj\Debug\Interfaces.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\Interfaces\obj\Debug\Interfaces.pdb

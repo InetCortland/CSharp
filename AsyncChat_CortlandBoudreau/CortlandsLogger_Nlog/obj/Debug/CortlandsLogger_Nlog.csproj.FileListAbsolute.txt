@@ -1,0 +1,10 @@
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\bin\Debug\NLog.config
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\bin\Debug\CortlandsLogger_Nlog.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\bin\Debug\CortlandsLogger_Nlog.pdb
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\bin\Debug\Interfaces.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\bin\Debug\NLog.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\bin\Debug\Interfaces.pdb
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\bin\Debug\NLog.xml
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\obj\Debug\CortlandsLogger_Nlog.csprojResolveAssemblyReference.cache
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\obj\Debug\CortlandsLogger_Nlog.dll
+Z:\GitHub\CSharp\PROG 2200\AsyncChat_W0237252\CortlandsLogger_Nlog\obj\Debug\CortlandsLogger_Nlog.pdb
